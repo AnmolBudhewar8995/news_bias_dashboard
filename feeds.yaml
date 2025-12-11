@@ -1,0 +1,7 @@
+feeds:
+  - name: "Local News A"
+    url: "https://example-local-a.com/rss"
+  - name: "Local News B"
+    url: "https://example-local-b.com/rss"
+  - name: "National Example"
+    url: "http://feeds.bbci.co.uk/news/rss.xml"
